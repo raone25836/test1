@@ -1,0 +1,6 @@
+{
+  "name": "Lalee Patle Birthday Experience",
+  "description": "A dreamy, emotional, and interactive birthday website for Lalee Patle celebrating 23 November with live countdown, heartfelt Hinglish letter, interactive cake, gift box, appreciation cards, wish wall, and private memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

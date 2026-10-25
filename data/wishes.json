@@ -1,0 +1,24 @@
+[
+  {
+    "id": "wish-1792946552872-816578e9",
+    "name": "Ananya Sharma",
+    "message": "Dear Lalee, wishing you a magical birthday! You are the sweetest friend anyone could ask for. Have the best 23 November celebration!",
+    "createdAt": "2026-10-25T16:42:32.872Z",
+    "status": "approved",
+    "ipHash": "12ca17b49af22894"
+  },
+  {
+    "id": "wish-seed-1",
+    "name": "Rohan Sharma",
+    "message": "Happy Birthday Lalee! Keep inspiring everyone with your positive energy and kindness. Have an amazing year ahead!",
+    "createdAt": "2026-10-23T16:40:09.530Z",
+    "status": "approved"
+  },
+  {
+    "id": "wish-seed-2",
+    "name": "Priya & Team",
+    "message": "Wishing you the happiest birthday Lalee! Hope your day is filled with good music, delicious food, and lots of laughter.",
+    "createdAt": "2026-10-24T16:40:09.530Z",
+    "status": "approved"
+  }
+]
